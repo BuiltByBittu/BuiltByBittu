@@ -92,13 +92,6 @@ available   : "Open to collaborate, learn & grow 🚀"
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BuiltByBittu&show_icons=true&theme=terminal&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiltByBittu&layout=compact&theme=terminal&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff"/>
-
-</div>
 
 <div align="center">
 
@@ -106,6 +99,11 @@ available   : "Open to collaborate, learn & grow 🚀"
 
 </div>
 
+<div align="center">
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BuiltByBittu&bg_color=2d2a2e&color=fcfcfa&line=ff6188&point=ffd866&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 ---
 
 ## 📚 Currently Learning
